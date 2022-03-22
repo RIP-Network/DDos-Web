@@ -1,20 +1,11 @@
-$ apt update<br>
-$ apt upgrade<br>
-$ apt install python<br>
-$ apt install git<br>
-$ apt install dnsutils<br>
+$ apt update
+$ apt upgrade
+$ apt install python
+$ apt install git
+$ apt install dnsutils
 $ git clone https://github.com/RIP-Network/DDos-Web
 
-DDos need the <b>Name Server</b> of a website which you want to attack...<br>
-To get the Name Server...just type<br>
-$ <b>nslookup example.com<b><br>
-Note the IP Address of that Website<br>
-
-then <br>
-$ cd DDos-Web<br>
-$ python DDos.py -s [ip Address] -t 135<br>
-example:<br>
-$ python DDos.py -s 123.45.67.89 -t 135<br>
-
-Video Tutorial:
-How to use DDos-Web [`Watch it`](Comming soon)
+Programa para ataque DDos-Web para páginas web
+No me hago responsable de los malos usos de la
+Herramienta ( próximamente se incluirán mejoras 
+Para que sea más potente el ataque)
