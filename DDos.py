@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 # -*- coding: utf-8 -*-
 
-#  DDos Attack Tool v2.0
+#  DDos Attack Tool v2.1
 
 
 from queue import Queue
@@ -84,7 +84,7 @@ Es solo para el script de prueba del servidor. Tu ip es visible. \n
 
 	eje : python3 DDos.py -s 201.159.222.39 -p 80 -t 135
 
-	Creado por RIP-Network Black Hat \033[0m''')
+	Mejorado por RIP-Network Black Hat \033[0m''')
 	sys.exit()
 
 
