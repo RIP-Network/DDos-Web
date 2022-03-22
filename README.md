@@ -10,6 +10,8 @@ apt install dnsutils
 
 git clone https://github.com/RIP-Network/DDos-Web
 
+bash install.sh
+
 Programa para ataque DDos-Web para páginas web
 No me hago responsable de los malos usos de la
 Herramienta ( próximamente se incluirán mejoras 
