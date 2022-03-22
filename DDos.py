@@ -73,7 +73,7 @@ def dos2():
 
 
 def usage():
-	print (''' \033[92m	DDos-Web Herramienta de ataque v2.0
+	print (''' \033[31m	DDos-Web Herramienta de ataque v2.0
 Es responsabilidad del usuario final obedecer todas las leyes aplicables.
 Es solo para el script de prueba del servidor. Tu ip es visible. \n
 	usage : python3 DDos.py [-s] [-p] [-t]
